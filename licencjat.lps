@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="licencjat.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="141"/>
+        <CursorPos X="40" Y="162"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="licencjat.pas"/>
+        <Caret Line="164" Column="34" TopLine="140"/>
+      </Position1>
+      <Position2>
+        <Filename Value="licencjat.pas"/>
+        <Caret Line="168" Column="4" TopLine="143"/>
+      </Position2>
+      <Position3>
+        <Filename Value="licencjat.pas"/>
+        <Caret Line="166" Column="11" TopLine="143"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
